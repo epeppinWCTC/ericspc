@@ -127,7 +127,7 @@ form {
     margin-right: auto;
     margin-left: auto;
 }
-#captcha {
+.captcha {
     margin-left: 700px;
     padding-bottom: 10px;
 }
@@ -269,7 +269,7 @@ footer {
     }
 
 }
-#captcha {
+.captcha {
     margin-left: 100px;
     padding-bottom: 10px;
 }
@@ -320,7 +320,7 @@ footer {
         margin-right: auto;
         margin-left: auto;
     }
-    #captcha {
+    .captcha {
         margin-left: 20px;
         padding-bottom: 10px;
     }

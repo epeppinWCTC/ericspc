@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5727d87f-febb-4efb-ba49-29deedfdaa23" name="Default Changelist" comment="Eric's PC Publish 17">
+    <list default="true" id="5727d87f-febb-4efb-ba49-29deedfdaa23" name="Default Changelist" comment="Eric's PC Publish 19">
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style/ericspc.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/ericspc.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601757646544</updated>
-      <workItem from="1601757647592" duration="34312000" />
+      <workItem from="1601757647592" duration="34625000" />
     </task>
     <task id="LOCAL-00001" summary="Eric's PC Publish">
       <created>1601856627114</created>
@@ -172,7 +173,28 @@
       <option name="project" value="LOCAL" />
       <updated>1601858335182</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Eric's PC Publish 18">
+      <created>1601858487018</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1601858487018</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Eric's PC Publish 19">
+      <created>1601858572547</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1601858572547</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Eric's PC Publish 19">
+      <created>1601858693750</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1601858693750</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,17 +216,19 @@
     <MESSAGE value="Eric's PC Publish 15" />
     <MESSAGE value="Eric's PC Publish 16" />
     <MESSAGE value="Eric's PC Publish 17" />
-    <option name="LAST_COMMIT_MESSAGE" value="Eric's PC Publish 17" />
+    <MESSAGE value="Eric's PC Publish 18" />
+    <MESSAGE value="Eric's PC Publish 19" />
+    <option name="LAST_COMMIT_MESSAGE" value="Eric's PC Publish 19" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1230" y="324" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601851954852">
       <screen x="-1920" y="-2" width="1920" height="1160" />
     </state>
     <state x="-1230" y="324" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-896.1200.1920.1040/-1920.-2.1920.1160/0.0.1920.1160@-1920.-2.1920.1160" timestamp="1601851954852" />
-    <state x="-1368" y="310" key="Vcs.Push.Dialog.v2" timestamp="1601858337293">
+    <state x="-1368" y="310" key="Vcs.Push.Dialog.v2" timestamp="1601858696726">
       <screen x="-1920" y="-2" width="1920" height="1160" />
     </state>
-    <state x="-1368" y="310" key="Vcs.Push.Dialog.v2/-896.1200.1920.1040/-1920.-2.1920.1160/0.0.1920.1160@-1920.-2.1920.1160" timestamp="1601858337293" />
+    <state x="-1368" y="310" key="Vcs.Push.Dialog.v2/-896.1200.1920.1040/-1920.-2.1920.1160/0.0.1920.1160@-1920.-2.1920.1160" timestamp="1601858696726" />
     <state x="-1297" y="253" width="672" height="678" key="search.everywhere.popup" timestamp="1601765905290">
       <screen x="-1920" y="-2" width="1920" height="1160" />
     </state>
