@@ -127,7 +127,10 @@ form {
     margin-right: auto;
     margin-left: auto;
 }
-
+#captcha {
+    margin-right: auto;
+    margin-left: auto;
+}
 #contact {
     text-align: center;
 }

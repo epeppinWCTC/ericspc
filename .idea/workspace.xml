@@ -2,35 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5727d87f-febb-4efb-ba49-29deedfdaa23" name="Default Changelist" comment="Eric's PC Publish">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ericspc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carousel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faq.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Computer_virus_illustration.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/blocked.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/eric.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/harddrve.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/harddrve.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/headerbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/moblehead.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/money.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pcfront.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pcfront.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pcsetup.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pcsetup.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/speedtest.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tools.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tools.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/webconfernce.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/wifi-158401_640.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/ericspc.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/ericspc.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/ericspc.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,8 +52,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601757646544</updated>
-      <workItem from="1601757647592" duration="32442000" />
+      <workItem from="1601757647592" duration="32831000" />
     </task>
+    <task id="LOCAL-00001" summary="Eric's PC Publish">
+      <created>1601856627114</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601856627114</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +76,10 @@
       <screen x="-1920" y="-2" width="1920" height="1160" />
     </state>
     <state x="-1230" y="324" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-896.1200.1920.1040/-1920.-2.1920.1160/0.0.1920.1160@-1920.-2.1920.1160" timestamp="1601851954852" />
+    <state x="-1368" y="310" key="Vcs.Push.Dialog.v2" timestamp="1601856811953">
+      <screen x="-1920" y="-2" width="1920" height="1160" />
+    </state>
+    <state x="-1368" y="310" key="Vcs.Push.Dialog.v2/-896.1200.1920.1040/-1920.-2.1920.1160/0.0.1920.1160@-1920.-2.1920.1160" timestamp="1601856811953" />
     <state x="-1297" y="253" width="672" height="678" key="search.everywhere.popup" timestamp="1601765905290">
       <screen x="-1920" y="-2" width="1920" height="1160" />
     </state>
