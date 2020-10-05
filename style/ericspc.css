@@ -127,10 +127,7 @@ form {
     margin-right: auto;
     margin-left: auto;
 }
-.captcha {
-    margin-left: 700px;
-    padding-bottom: 10px;
-}
+
 #contact {
     text-align: center;
 }
@@ -269,10 +266,6 @@ footer {
     }
 
 }
-.captcha {
-    margin-left: 100px;
-    padding-bottom: 10px;
-}
 
 
 @media only screen and (max-width: 37.5em) {
@@ -320,8 +313,5 @@ footer {
         margin-right: auto;
         margin-left: auto;
     }
-    .captcha {
-        margin-left: 20px;
-        padding-bottom: 10px;
-    }
+
 }
