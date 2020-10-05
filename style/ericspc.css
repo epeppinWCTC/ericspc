@@ -128,7 +128,8 @@ form {
     margin-left: auto;
 }
 #captcha {
-    margin-left: 300px;
+    margin-left: 325px;
+    padding-bottom: 3px;
 }
 #contact {
     text-align: center;
