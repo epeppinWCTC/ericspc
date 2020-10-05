@@ -1,0 +1,316 @@
+/* universal selector */
+* {
+    box-sizing: border-box;
+}
+
+/* set block styling */
+header, main, nav, footer, figure, figcaption, aside, section, article, input, textarea {
+    display: block;
+}
+
+/* body styling */
+body {
+    background-color: #f5f5f5;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Header Styling */
+header {
+    background-image: url("../images/headerbg.png");
+    background-color: #add8e6;
+    background-position: right;
+    background-repeat: no-repeat;
+    height: 130px;
+    padding-top: 5px;
+    text-align: left;
+    margin: -0.5em;
+}
+
+header h1, h4 {
+    text-indent: 30px;
+}
+
+header h1 {
+    margin-bottom: 0;
+}
+
+header h4 {
+    margin-top: 1px;
+}
+
+/* Style the navigation menu */
+.navigation {
+    width: 100%;
+    background-color: #555;
+    overflow: auto;
+    margin-bottom: 0;
+}
+
+/* Navigation links */
+.navigation a {
+    float: left;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    width: 25%;
+    text-align: center;
+}
+
+/* Add a background color on mouse-over */
+.navigation a:hover {
+    background-color: #000;
+}
+
+/* Style the current/active link */
+.navigation a.active {
+    background-color: #008;
+}
+
+nav {
+    margin: -0.5em;
+}
+
+main {
+    background-color: #add8e6;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 200px;
+    border-left: 3px solid #008;
+    border-right: 3px solid #008;
+}
+
+main h2, dt {
+    margin: 8px;
+    padding-top: 50px;
+    text-indent: 10px;
+}
+dt {
+    font-weight: bold;
+}
+dd {
+    margin-right: 25%;
+}
+
+main p {
+    padding-left: 15px;
+    margin-right: 40%;
+}
+
+img {
+    margin: 30px;
+}
+
+figcaption {
+    text-align: center;
+    font-size: small;
+    font-style: italic;
+}
+input, textarea, label {
+    width: 45%;
+    margin-bottom: 2em;
+    margin-right: auto;
+    margin-left: auto;
+}
+label {
+    margin-left: 25%;
+}
+
+input[type="submit"]{
+    width: 25%;
+    margin-right: auto;
+    margin-left: auto;
+}
+form {
+    padding: 5em;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#contact {
+    text-align: center;
+}
+.imgwrap {
+    clear: both;
+    width: 95%;
+}
+.imgwrap img {
+    float: right;
+    margin-bottom: 0.5em;
+}
+.floatright {
+    float: right;
+    margin-right: 10%;
+}
+.mobile {
+    display: none;
+}
+#moblephone {
+    display: none;
+}
+#slideshow {
+    overflow: hidden;
+    height: 510px;
+    width: 728px;
+    margin: 0 auto;
+}
+
+.slide-wrapper {
+    width: 2912px;
+    -webkit-animation: slide 35s ease infinite;
+}
+
+.slide {
+    float: left;
+    height: 510px;
+    width: 728px;
+}
+
+.slide:nth-child(1) {
+    background-image: url("../images/blocked.JPG");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 728px 510px;
+}
+
+.slide:nth-child(2) {
+    background-image: url("../images/money.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 728px 510px;
+}
+
+.slide:nth-child(3) {
+    background-image: url("../images/webconfernce.JPG");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 728px 510px;
+}
+
+
+.slide:nth-child(4) {
+    background-image: url("../images/speedtest.JPG");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 728px 510px;
+}
+
+.slide-number1 {
+    color: #008;
+    text-align: center;
+    margin-top: 425px;
+    font-size: 1em;
+}
+.slide-number2 {
+    color: #FFF;
+    text-align: center;
+    margin-top: 425px;
+    font-size: 1em;
+}
+.slide-number3 {
+    color: #FFF;
+    text-align: center;
+    margin-top: 425px;
+    font-size: 1em;
+}
+.slide-number4 {
+    color: #708090;
+    text-align: center;
+    margin-top: 400px;
+    font-size: 1em;
+}
+
+@-webkit-keyframes slide {
+    20% {margin-left: 0;}
+    30% {margin-left: -728px;}
+    50% {margin-left: -728px;}
+    60% {margin-left: -1456px;}
+    70% {margin-left: -1456px;}
+    80% {margin-left: -2184px;}
+    90% {margin-left: -2184px;}
+}
+
+footer {
+    background-color: #add8e6;
+    text-align: center;
+    font-style: italic;
+    font-size: small;
+    padding: 10px;
+    border-top: 3px solid #008;
+    margin: -1em;
+}
+
+@media only screen and (max-width: 64em) {
+    header h1 {
+        margin-right: 250px;
+        margin-left: 50px;
+        text-align: center;
+    }
+
+    header h4 {
+        margin-right: 250px;
+        margin-left: 50px;
+        text-align: center;
+    }
+
+    main {
+        margin-left: -.5em;
+        margin-right: -.5em;
+        border-right: none;
+        border-left: none;
+    }
+
+    main h2 {
+        text-indent: 20px;
+    }
+
+}
+
+
+@media only screen and (max-width: 37.5em) {
+
+    .desktop {
+        display: none;
+    }
+    .mobile {
+        display: block;
+    }
+    #moblephone {
+        padding-left: 15px;
+        display: block;
+    }
+    img {
+        display: none;
+    }
+    header h2 {
+        background-image: url("../images/moblehead.png");
+        height: 130px;
+        margin-top: 0;
+        margin-right: 0;
+        padding-top: 30px;
+        text-align: center;
+    }
+
+    .navigation a {
+        float: none;
+        display: block;
+        width: 100%;
+        text-align: left;
+    }
+    input, textarea, label {
+        width: 75%;
+        margin-bottom: 2em;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    label {
+        margin-left: 10%;
+    }
+
+    input[type="submit"]{
+        width: 50%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Eric's PC Repair :: Contact Us</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description="
+          content="Eric's PC Repair is Pewaukee's local PC experts, specializing in PC Hardware and Troubleshooting">
+    <link rel="stylesheet" href="style/ericspc.css">
+</head>
+<body>
+<header>
+    <h1 class="desktop">Eric's PC Repair</h1>
+    <h4 class="desktop">Your PC Repair Headquarters</h4>
+    <h2 class="mobile">Eric's PC Repair</h2>
+</header>
+<nav>
+    <div class="navigation">
+        <a href="index.html">Home</a>
+        <a href="services.html">Services</a>
+        <a class="active" href="contact.html">Contact Us</a>
+        <a href="faq.html">FAQ</a>
+    </div>
+</nav>
+<main>
+    <div id="contact">
+        <h2>Give Us a Shout!</h2>
+        <h4>Required information is marked with an asterisk *</h4>
+        <h5>We will respond within 1 business day to any questions or requests for service</h5>
+    </div>
+    <form name="contact" data-netlify-recaptcha="true" method="post" data-netlify="true">
+        <label for="myName">*Name:</label>
+        <input type="text" name="myName" id="myName" required>
+
+        <label for="myEmail">*Email:</label>
+        <input type="email" name="myEmail" id="myEmail" required>
+
+        <label for="myAbout">How did you hear about us?</label>
+        <input type="text" name="myAbout" id="myAbout" list="myAbouts">
+        <datalist id="myAbouts">
+            <option>Google</option>
+            <option>Bing</option>
+            <option>Facebook</option>
+            <option>Friend</option>
+            <option>Radio Ad</option>
+        </datalist>
+
+        <label for="myComments">*Comments, Questions, Details:</label>
+        <textarea name="myComments" id="myComments" rows="4" cols="50" required></textarea>
+        <div data-netlify-recaptcha="true"></div>
+        <input type="submit" value="Submit">
+    </form>
+</main>
+<footer>
+    Copyright &copy; 2020 Eric's PC Repair<br>
+    <a href="mailto:epeppin@my.wctc.edu">epeppin@my.wctc.edu</a><br><br>
+</footer>
+</body>
+</html>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5727d87f-febb-4efb-ba49-29deedfdaa23" name="Default Changelist" comment="Eric's PC Publish">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ericspc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/carousel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Computer_virus_illustration.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/blocked.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/eric.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/harddrve.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/harddrve.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/headerbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/moblehead.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/money.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pcfront.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pcfront.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pcsetup.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pcsetup.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/speedtest.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tools.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tools.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/webconfernce.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/wifi-158401_640.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/ericspc.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iNowDabtANv8oL3F1cZRZ6tnan" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\epeppin\Documents\Intro to Web\Final" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\epeppin\Documents\Intro to Web\Final\style" />
+      <recent name="C:\Users\epeppin\Documents\Intro to Web\Final" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5727d87f-febb-4efb-ba49-29deedfdaa23" name="Default Changelist" comment="" />
+      <created>1601757646544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601757646544</updated>
+      <workItem from="1601757647592" duration="32442000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Eric's PC Publish" />
+    <option name="LAST_COMMIT_MESSAGE" value="Eric's PC Publish" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1230" y="324" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601851954852">
+      <screen x="-1920" y="-2" width="1920" height="1160" />
+    </state>
+    <state x="-1230" y="324" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-896.1200.1920.1040/-1920.-2.1920.1160/0.0.1920.1160@-1920.-2.1920.1160" timestamp="1601851954852" />
+    <state x="-1297" y="253" width="672" height="678" key="search.everywhere.popup" timestamp="1601765905290">
+      <screen x="-1920" y="-2" width="1920" height="1160" />
+    </state>
+    <state x="-1297" y="253" width="672" height="678" key="search.everywhere.popup/-896.1200.1920.1040/-1920.-2.1920.1160/0.0.1920.1160@-1920.-2.1920.1160" timestamp="1601765905290" />
+  </component>
+</project>
