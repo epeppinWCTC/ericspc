@@ -273,9 +273,7 @@ footer {
         padding-left: 15px;
         display: block;
     }
-    img {
-        display: none;
-    }
+
     header h2 {
         background-image: url("../images/moblehead.png");
         height: 130px;
