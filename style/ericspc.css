@@ -235,17 +235,12 @@ footer {
 }
 
 @media only screen and (max-width: 64em) {
-    header h1 {
+    header h1, h4 {
         margin-right: 250px;
         margin-left: 50px;
         text-align: center;
     }
 
-    header h4 {
-        margin-right: 250px;
-        margin-left: 50px;
-        text-align: center;
-    }
 
     main {
         margin-left: -.5em;
@@ -282,6 +277,10 @@ footer {
         padding-top: 30px;
         text-align: center;
     }
+    main p {
+        margin-right: 10px;
+    }
+
 
     .navigation a {
         float: none;
