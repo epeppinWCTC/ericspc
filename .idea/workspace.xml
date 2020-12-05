@@ -20,7 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5727d87f-febb-4efb-ba49-29deedfdaa23" name="Default Changelist" comment="Final Commit">
+      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trivia.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/faq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style/ericspc.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/ericspc.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +38,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -48,8 +55,9 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Week 7/Class1/Demo/javascript-personality-quiz-master" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -73,6 +81,9 @@
       <workItem from="1601757647592" duration="35323000" />
       <workItem from="1601933701971" duration="3434000" />
       <workItem from="1602006864732" duration="451000" />
+      <workItem from="1607132856685" duration="2255000" />
+      <workItem from="1607142053463" duration="2626000" />
+      <workItem from="1607183795690" duration="4492000" />
     </task>
     <task id="LOCAL-00001" summary="Eric's PC Publish">
       <created>1601856627114</created>
@@ -282,19 +293,5 @@
     <MESSAGE value="Eric's PC Publish fixed CSS" />
     <MESSAGE value="Final Commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Final Commit" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="-1230" y="324" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601851954852">
-      <screen x="-1920" y="-2" width="1920" height="1160" />
-    </state>
-    <state x="-1230" y="324" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-896.1200.1920.1040/-1920.-2.1920.1160/0.0.1920.1160@-1920.-2.1920.1160" timestamp="1601851954852" />
-    <state x="-1368" y="310" key="Vcs.Push.Dialog.v2" timestamp="1602006528914">
-      <screen x="-1920" y="-2" width="1920" height="1160" />
-    </state>
-    <state x="-1368" y="310" key="Vcs.Push.Dialog.v2/-896.1200.1920.1040/-1920.-2.1920.1160/0.0.1920.1160@-1920.-2.1920.1160" timestamp="1602006528914" />
-    <state x="-1297" y="253" width="672" height="678" key="search.everywhere.popup" timestamp="1601765905290">
-      <screen x="-1920" y="-2" width="1920" height="1160" />
-    </state>
-    <state x="-1297" y="253" width="672" height="678" key="search.everywhere.popup/-896.1200.1920.1040/-1920.-2.1920.1160/0.0.1920.1160@-1920.-2.1920.1160" timestamp="1601765905290" />
   </component>
 </project>
