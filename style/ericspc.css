@@ -67,9 +67,21 @@ header h4 {
 .navigation a.active {
     background-color: #008;
 }
-
+div.card {
+    margin-left: 10px;
+    width: 20rem;
+}
+p.card-text{
+    margin-right: 1rem;
+}
+fieldset {
+    margin-top: 40px;
+    border: black 1px solid;
+}
 nav {
-    margin: -0.5em;
+    margin-right: -0.5em;
+    margin-left: -0.5em;
+    padding-bottom: 0px;
 }
 
 main {
@@ -82,7 +94,7 @@ main {
 }
 
 main h2, dt {
-    margin: 8px;
+    margin-left: 8px;
     padding-top: 50px;
     text-indent: 10px;
 }
@@ -116,7 +128,8 @@ input[type="submit"]{
     width: 25%;
 }
 form {
-    padding: 5em;
+    padding: 1em;
+
 }
 
 #contact h2, h4, h5{
@@ -232,12 +245,6 @@ footer {
     padding: 10px;
     border-top: 3px solid #008;
     margin: -1em;
-}
-
-/*Trivia game style*/
-
-fieldset {
-    display: none;
 }
 
 @media only screen and (max-width: 64em) {
