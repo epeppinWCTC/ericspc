@@ -234,6 +234,12 @@ footer {
     margin: -1em;
 }
 
+/*Trivia game style*/
+
+fieldset {
+    display: none;
+}
+
 @media only screen and (max-width: 64em) {
     header h1, h4 {
         margin-right: 250px;
