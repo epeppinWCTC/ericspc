@@ -28,7 +28,7 @@
     <main>
         <form>
             <input type="button" value="Start the quiz" id="start-quiz">
-            <fieldset id="q0">
+            <fieldset id="q0" class="question">
                 <legend>Internet Explorer is used for:</legend>
                 <div>
                     <input type="radio" id="q0-1" name="q0" data-correct="0">
@@ -47,7 +47,7 @@
                     <label for="q0-4">Downloading Chrome or Firefox</label>
                 </div>
             </fieldset>
-            <fieldset id="q1">
+            <fieldset id="q1" class="question">
                 <legend>You get an email asking for your username and password. What should you do?</legend>
                 <div>
                     <input type="radio" id="q1-1" name="q1" data-correct="0">
@@ -66,7 +66,7 @@
                     <label for="q1-4">Set your computer on fire</label>
                 </div>
             </fieldset>
-            <fieldset id="q2">
+            <fieldset id="q2" class="question">
                 <legend>You can't get your computer to boot up. What should you do?</legend>
                 <div>
                     <input type="radio" id="q2-1" name="q2" data-correct="0">
@@ -85,7 +85,7 @@
                     <label for="q2-4">Call Eric & Nick's PC repair to fix it for you</label>
                 </div>
             </fieldset>
-            <fieldset id="q3">
+            <fieldset id="q3" class="question">
                 <legend>You need help setting up the new computer that you just bought. Who should you call?</legend>
                 <div>
                     <input type="radio" id="q3-1" name="q3" data-correct="0">
@@ -104,7 +104,7 @@
                     <label for="q3-4">911</label>
                 </div>
             </fieldset>
-            <fieldset id="q4">
+            <fieldset id="q4" class="question">
                 <legend>What software should you install to protect your computer against viruses?</legend>
                 <div>
                     <input type="radio" id="q4-1" name="q4" data-correct="1">
@@ -123,7 +123,7 @@
                     <label for="q4-4">Calculator</label>
                 </div>
             </fieldset>
-            <fieldset id="q5">
+            <fieldset id="q5" class="question">
                 <legend>What is the current version of Windows?</legend>
                 <div>
                     <input type="radio" id="q5-1" name="q5" data-correct="0">
@@ -142,8 +142,8 @@
                     <label for="q5-4">10</label>
                 </div>
             </fieldset>
-            <fieldset id="q6">
-                <legend>Who is the founder of Windows</legend>
+            <fieldset id="q6" class="question">
+                <legend>Who is the founder of Microsoft?</legend>
                 <div>
                     <input type="radio" id="q6-1" name="q6" data-correct="0">
                     <label for="q6-1">Jeff Bezos</label>
@@ -161,7 +161,7 @@
                     <label for="q6-4">Donald Trump</label>
                 </div>
             </fieldset>
-            <fieldset id="q7">
+            <fieldset id="q7" class="question">
                 <legend>A good password should include a random combination of letters, numbers, and symbols. True or false?</legend>
                 <div>
                     <input type="radio" id="q7-1" name="q7" data-correct="1">
@@ -172,7 +172,7 @@
                     <label for="q7-2">False</label>
                 </div>
             </fieldset>
-            <fieldset id="q8">
+            <fieldset id="q8" class="question">
                 <legend>If your computer is overheating, you can cool it down by pouring water on it. True or false?</legend>
                 <div>
                     <input type="radio" id="q8-1" name="q8" data-correct="0">
@@ -183,7 +183,7 @@
                     <label for="q8-2">False</label>
                 </div>
             </fieldset>
-            <fieldset id="q9">
+            <fieldset id="q9" class="question">
                 <legend>Before calling Eric & Nick's PC, you should try restarting your computer. True or false?</legend>
                 <div>
                     <input type="radio" id="q9-1" name="q9" data-correct="1">
@@ -195,6 +195,9 @@
                 </div>
             </fieldset>
         </form>
+        <div id="message-area">
+            <h3></h3>
+        </div>
     </main>
     <footer>
         Copyright &copy; 2020 Eric & Nick's PC Repair<br>

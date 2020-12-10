@@ -20,7 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5727d87f-febb-4efb-ba49-29deedfdaa23" name="Default Changelist" comment="Added trivia.js">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ericspc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ericspc.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/trivia.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/trivia.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/ericspc.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/ericspc.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trivia.html" beforeDir="false" afterPath="$PROJECT_DIR$/trivia.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +51,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -80,7 +87,7 @@
       <workItem from="1607382090210" duration="5887000" />
       <workItem from="1607401433171" duration="2806000" />
       <workItem from="1607467152045" duration="7046000" />
-      <workItem from="1607568915076" duration="299000" />
+      <workItem from="1607568915076" duration="5332000" />
     </task>
     <task id="LOCAL-00001" summary="Eric's PC Publish">
       <created>1601856627114</created>
@@ -278,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607478704792</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Added trivia.js">
+      <created>1607569552324</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1607569552324</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
